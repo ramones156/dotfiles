@@ -46,7 +46,8 @@ theme.wallpaper = gfs.get_configuration_dir() .. "themes/assets/personal.png"
 theme.pfp = gears.surface.load_uncached(gfs.get_configuration_dir() .. "themes/assets/pfp.png")
 
 -- Awesome Logo
-theme.awesome_logo = gears.surface.load_uncached(gfs.get_configuration_dir() .. "icons/awesome_logo.svg")
+theme.power_off_logo = gears.surface.load_uncached(gfs.get_configuration_dir() .. "icons/temp.svg")
+--theme.awesome_logo = gears.surface.load_uncached(gfs.get_configuration_dir() .. "icons/awesome_logo.svg")
 
 -- Fonts
 theme.font_name = "Iosevka "
